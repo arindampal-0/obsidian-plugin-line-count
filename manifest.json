@@ -3,7 +3,7 @@
 	"name": "Line Count",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Counts number of lines of open note.",
+	"description": "Counts number of lines of opened note.",
 	"author": "Arindam Pal",
 	"authorUrl": "https://arindampal-0.github.io",
 	"isDesktopOnly": false
